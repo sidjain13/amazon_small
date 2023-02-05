@@ -2,6 +2,9 @@
     body{
         /* background-color: red; */
     }
+    header nav{
+        height:25vh;
+    }
     header nav ul{
         flex-direction: column;
     }
