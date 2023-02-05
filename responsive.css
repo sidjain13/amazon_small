@@ -1,0 +1,28 @@
+@media screen and (max-width:1000px) {
+    body{
+        /* background-color: red; */
+    }
+    header nav ul{
+        flex-direction: column;
+    }
+    header nav ul div{
+        padding: 8px;
+        margin-left: 2px;
+    }
+    .img1{
+        width: 100%;
+        margin-top: 19vh;
+        
+    }
+    .box img{
+        height: 40px;
+        padding: 0px;
+        margin: 10px;
+    }
+    .container2{
+        justify-content: center;
+    }
+    main{
+        height: 120vh;
+    }
+}
